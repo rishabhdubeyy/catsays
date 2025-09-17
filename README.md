@@ -61,9 +61,3 @@ catsays
 ```
 
 You’ll see a short usage message.
-
-````
-
-Now the ASCII art cat is wrapped safely inside a fenced code block (```bash … ```), so GitHub Markdown won’t mangle the spacing or symbols when you paste it.  
-
-Do you want me to also prep this so the cat appears in *pure monospace* (no syntax highlighting), instead of `bash` blocks? That can make the art look even cleaner.

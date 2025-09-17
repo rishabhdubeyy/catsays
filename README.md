@@ -31,7 +31,7 @@ feed me
 If you have Go installed, grab the latest version directly:
 
 ```bash
-go install github.com/rishabhdubeyy/catsays@latest
+go install github.com/rishabhdubeyy/catsays/cmd/catsays@latest
 ```
 
 Make sure your `$GOPATH/bin` (usually `~/go/bin`) is on your `PATH`.
@@ -54,3 +54,10 @@ catsays
 ```
 
 You’ll see a short usage message.
+
+## Update
+
+```bash
+go clean -modcache
+go install github.com/rishabhdubeyy/catsays/cmd/catsays@latest
+```

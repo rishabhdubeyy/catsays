@@ -23,7 +23,7 @@ func renderCat(input []string) string {
                       .*' /  .*' ; .*'- +'  '*'
                       '*-*   '*-*  '*-*'        
 	`
-	return strings.Join(input, " ") + cat
+	return strings.Join(input, " ") + " meow" + cat
 }
 
 func main() {

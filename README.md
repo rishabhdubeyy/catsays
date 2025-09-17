@@ -41,13 +41,6 @@ Then run:
 catsays "hello human"
 ```
 
-### Option 2: Prebuilt binaries
-
-If you don’t want to install Go, you can download a binary from the [Releases](https://github.com/rishabhdubeyy/catsays/releases) page (coming soon).
-Download the right file for your OS, put it somewhere on your `PATH`, and run `catsays`.
-
----
-
 ## Usage
 
 ```bash
